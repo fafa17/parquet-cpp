@@ -16,6 +16,7 @@
 # under the License.
 
 install(FILES
+  reader-internal.h
   metadata.h
   reader.h
   writer.h
